@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/ayber/OneDrive/Masa\xFCst\xFC/Count Masters/Assets/Scenes/SampleScene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
